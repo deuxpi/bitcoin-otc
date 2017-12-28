@@ -11,9 +11,9 @@ $VERSION = '0.01';
     contact     => 'philippe.gauthier\@deuxpi.ca',
     name        => 'bitcoin-otc-gpgauth',
     description => 'GPG authentication for #bitcoin-otc',
-    license     => 'GPL',
-    url         => 'http://www.deuxpi.ca/irssi/',
-    changed     => 'Tue Mar  8 17:42 EST 2011'
+    license     => 'Artistic',
+    url         => 'https://www.github.com/deuxpi/bitcoin-otc/',
+    changed     => 'Tue Dec 28 17:13:59 UTC 2017'
 );
 
 # Modify for your nickname and the last 16 hex digits of your key Id.
